@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/jhtrack/src-sampleappwiiusej/sampleappwiiusej/MyClass.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<mapAttribute key="org.eclipse.debug.core.environmentVariables">
+<mapEntry key="LD_LIBRARY_PATH" value="${workspace_loc:jhtrack/LIBs/jogl/1.1.1.a/linux-i586}:${workspace_loc:jhtrack/LIBs/wiiusej/0.12b/linux-i386}:${workspace_loc:jhtrack/LIBs/wiiusej/0.12b/linux-i386_extra}:/usr/lib/"/>
+</mapAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="sampleappwiiusej.MyClass"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="jhtrack"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Djava.library.path=${workspace_loc:jhtrack/LIBs/jogl/1.1.1.a/linux-i586}:${workspace_loc:jhtrack/LIBs/wiiusej/0.12b/linux-i386}:${workspace_loc:jhtrack/LIBs/wiiusej/0.12b/linux-i386_extra}"/>
+</launchConfiguration>
